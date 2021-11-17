@@ -53,7 +53,7 @@
 </p>
 
 
-### <a href="https://www.instagram.com/vanardilaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/vanardilaa/" target="_blank">Veritechie</a>
+### <a href="https://www.instagram.com/vanardilaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanardilaa" height="30" width="40" /></a>  <a href="https://www.instagram.com/vanardilaa/" target="_blank">Veritechie</a>
 My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/vanardilaa/" target="_blank">We are already 20K!</a>
 
 ### 🌱 I'm currently learning... / Last Projects
@@ -61,13 +61,6 @@ My objective is to be able to share and motivate people who feel a strong concer
 - GraphQL / Heroku / Docker 
 - Advance React JS
 - MEAN Stack Course (With official certificate in MongoDB)
-
-
-### 🗣 Veronica as speaker
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.twitch.tv/videos/1189259093) 
-**Colloquium of Women for Change 👩‍💻CODERS & GAMERS 🎮** \
-Talk to inspire future generations about great opportunities
-that offers the figure of women in technology and Esports sectors [Click to see](https://www.twitch.tv/videos/1189259093) 
 
 
 ---
