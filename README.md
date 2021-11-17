@@ -74,7 +74,7 @@ that offers the figure of women in technology and Esports sectors [Click to see]
 
 ### Sometimes I write 
 
-<a href="https://dev.to/veritechie">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://dev.to/vanmaster">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 ### Github Stats:
 
@@ -86,5 +86,3 @@ that offers the figure of women in technology and Esports sectors [Click to see]
 </table>
 
 
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
